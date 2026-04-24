@@ -8,9 +8,12 @@ My work emphasizes:
 - Transaction costs and implementation constraints  
 - Understanding where and why alpha breaks  
 
-## Current Research
+## Research Overview
 
-- **Ensemble Machine Learning (Super Learner)**  
+- **Alpha Research System**  
+  Developing a production-grade systematic trading framework, incorporating Machine Learning Super Learner architectures and automated data pipelines for real-time strategy evaluation.
+  
+- **Ensemble Machine Learning**  
   Walk-forward validated models with stability audits across rolling out-of-sample windows  
 
 - **Multi-Asset Statistical Arbitrage**  
